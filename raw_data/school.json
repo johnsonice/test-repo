@@ -1,0 +1,65 @@
+[
+  {
+    "avatar": "app/view/img/school/avt_jhu.png",
+    "cnName": "????????",
+    "shortName": "JHU",
+    "name": "Johns Hopkins University",
+    "zip": 22102
+  },
+  {
+    "avatar": "app/view/img/school/avt_gu.png",
+    "cnName": "?????",
+    "shortName": "GU",
+    "name": "Georgetown University",
+    "zip": 602
+  },
+  {
+    "avatar": "app/view/img/school/avt_gwu.png",
+    "cnName": "???????",
+    "shortName": "GWU",
+    "name": "The George Washington University",
+    "zip": 22102
+  },
+  {
+    "avatar": "app/view/img/school/avt_cmu.png",
+    "cnName": "???????",
+    "shortName": "CMU",
+    "name": "Carnegie Mellon University",
+    "zip": 22102
+  },
+  {
+    "avatar": "app/view/img/school/avt_umb.png",
+    "cnName": "?????????",
+    "shortName": "UMB",
+    "name": "University of Massachusetts, Boston",
+    "zip": 22102
+  },
+  {
+    "avatar": "app/view/img/school/avt_pitt.png",
+    "cnName": "?????",
+    "shortName": "Pitt",
+    "name": "University of Pittsburgh",
+    "zip": 22102
+  },
+  {
+    "avatar": "app/view/img/school/avt_vt.png",
+    "cnName": "????????",
+    "shortName": "VT",
+    "name": "Virginia Polytechnic Institute and State University",
+    "zip": 22102
+  },
+  {
+    "avatar": "app/view/img/school/avt_bcm.png",
+    "cnName": "???????",
+    "shortName": "BCM",
+    "name": "Berklee College of Music",
+    "zip": 22102
+  },
+  {
+    "avatar": "app/view/img/school/avt_umd.png",
+    "cnName": "?????",
+    "shortName": "UMD",
+    "name": "University of Maryland, College Park",
+    "zip": 22102
+  }
+]
