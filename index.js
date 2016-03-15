@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-//testing
 
-//something new 
-=======
-// this is app-01  banch 
 
 >>>>>>> app01
 var express = require('express');
